@@ -1,0 +1,11 @@
+{
+  "name": "s3_bucket_lamba_image_resign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "package": "zip -r function.zip ."
+  },
+  "author": "",
+  "license": "ISC"
+}
